@@ -67,6 +67,7 @@
 - CRUD Operations
 
 ### 8. Final Project (Afternoon)
+- Hotel Management System
 - Understanding project requirements
 - Designing UI templates
 - Applying business logic
