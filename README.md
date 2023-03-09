@@ -1,4 +1,5 @@
 # Project Development Workshop
+[Resources](Resources.md)
 
 ## Day 0:
 ### Q. What is Project Development?
