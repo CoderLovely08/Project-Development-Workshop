@@ -58,7 +58,7 @@
 - Serving HTML Files
 - HTML forms, types of requests and data parsing
 - what is EJS and how to use it
-- Todo App - Project (if possible)
+- Todo App - Project (optional)
 
 ### 7. Databases (Forenoon + Afternoon)
 - What are databases
